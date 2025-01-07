@@ -1,24 +1,26 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+John+Eriel+%F0%9F%9A%80;Welcome+to+My+Profile+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div>
 
-<div align="center">
 
- # 💫 About Me:
-An aspiring Web Developer 🌐 and Database Administrator 💾.  <br>I'm passionate about building full-stack websites and managing databases. <br>constantly learning and improving my skills in these areas. 🚀<br>
-<br>Currently, I'm learning <b>Laravel</b> and <b>React</b>. 📚  
-<br>I've previously learned the basics of <b>Flutter</b>. 📱  
-<br>Let's connect and create something amazing! 💡  
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 50%; padding: 5px;">
+      <h2>💫 About Me:</h2>
+      <p>An aspiring Web Developer 🌐 and Database Administrator 💾. I'm passionate about building full-stack websites and managing databases. Constantly learning and improving my skills in these areas. 🚀</p>
+      <p>Currently, I'm learning <b>Laravel</b> and <b>React</b>. 📚</p>
+      <p>I've previously learned the basics of <b>Flutter</b>. 📱</p>
+      <p>Let's connect and create something amazing! 💡</p>
+    </td>
+    <td style="width: 50%; padding: 20px;">
+      <h3>🔝 Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=Ehrii&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contribution Stats">
+    </td>
+      <br><br>
+      <p>Your are the <img src="https://profile-counter.glitch.me/Ehrii/count.svg?" alt="Visitor Counter" />th visitor!</p>
+   
+  </tr>
+</table>
 
-<br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ehrii&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<div align="center">
-  Your are the  <img src="https://profile-counter.glitch.me/Ehrii/count.svg?"  />th
-  visitor!
-</div> 
 
 ## 🌐 Socials:
 
