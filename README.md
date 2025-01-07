@@ -1,7 +1,5 @@
-
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=17&duration=4000&pause=1000&color=2C9ACA&background=20FF5200&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+John+Eriel+Labadan;Welcome+To+My+Profile+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=18&duration=4000&pause=1000&color=2C9ACA&background=20FF5200&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+John+Eriel+Labadan;Welcome+To+My+Profile+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -12,6 +10,12 @@
 <br>I've previously learned the basics of <b>Flutter</b>. 📱  
 <br>Let's connect and create something amazing! 💡  
 
+<br>
+
+<div align="center">
+  There are <img src="https://profile-counter.glitch.me/Ehrii/count.svg?"  />
+  visitors!
+</div> 
 
 ## 🌐 Socials:
 
@@ -40,14 +44,9 @@
 ---
 
 
-
-
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JohnLabadan) 
 
 
 </div>  
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
