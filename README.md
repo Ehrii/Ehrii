@@ -23,7 +23,7 @@ Hi! I'm John Eriel Labadan 👋,  <br><br>An aspiring Web Developer 🌐 and Dat
 [![](https://visitcount.itsvg.in/api?id=Ehrii&icon=0&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@JohnLabadan) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JohnLabadan) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
