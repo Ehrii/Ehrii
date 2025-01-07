@@ -55,6 +55,7 @@
   </tr>
 </table>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ehrii&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ehrii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
