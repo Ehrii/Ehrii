@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi! I'm John Eriel Labadan 👋,  <br>an aspiring Web Developer 🌐 and Database Administrator 💾.  <br><br>I'm passionate about building websites and managing databases,  <br>constantly learning and improving my skills in these areas. 🚀  <br><br>Let's connect and create something amazing! 💡  
+Hi! I'm John Eriel Labadan 👋,  <br>An aspiring Web Developer 🌐 and Database Administrator 💾.  <br><br>I'm passionate about building full-stack websites and managing databases,  <br>constantly learning and improving my skills in these areas. 🚀 <br>
+<br>Currently, I'm learning **Laravel** and **React**. 📚  
+<br><br>I've previously learned the basics of **Flutter**. 📱  
+<br><br>Let's connect and create something amazing! 💡  
+
 
 
 ## 🌐 Socials:
