@@ -1,8 +1,8 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <div align="center">
- 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=23&duration=4000&pause=1000&color=2C9ACA&background=20FF5200&width=435&lines=John+Eriel+Labadan;Welcome+To+My+Profile" alt="Typing SVG" /></a>
 
  
