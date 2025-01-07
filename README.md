@@ -4,20 +4,19 @@
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 50%; padding: 5px;">
+    <td style="width: 25%; padding: 5px;">
       <h2>💫 About Me:</h2>
       <p>An aspiring Web Developer 🌐 and Database Administrator 💾. I'm passionate about building full-stack websites and managing databases. Constantly learning and improving my skills in these areas. 🚀</p>
       <p>Currently, I'm learning <b>Laravel</b> and <b>React</b>. 📚</p>
       <p>I've previously learned the basics of <b>Flutter</b>. 📱</p>
       <p>Let's connect and create something amazing! 💡</p>
     </td>
-    <td style="width: 50%; padding: 5px;">
+    <td style="width: 75%; padding: 5px;">
       <h3>🔝 Top Contributed Repo</h3>
       <img src="https://github-contributor-stats.vercel.app/api?username=Ehrii&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contribution Stats">
     </td>
       <br><br>
       <p>Your are the <img src="https://profile-counter.glitch.me/Ehrii/count.svg?" alt="Visitor Counter" />th visitor!</p>
-   
   </tr>
 </table>
 
