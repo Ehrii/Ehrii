@@ -5,7 +5,7 @@
 <div align="center">
 
  # 💫 About Me:
-<br><br>An aspiring Web Developer 🌐 and Database Administrator 💾.  <br>I'm passionate about building full-stack websites and managing databases. <br>constantly learning and improving my skills in these areas. 🚀<br>
+An aspiring Web Developer 🌐 and Database Administrator 💾.  <br>I'm passionate about building full-stack websites and managing databases. <br>constantly learning and improving my skills in these areas. 🚀<br>
 <br>Currently, I'm learning <b>Laravel</b> and <b>React</b>. 📚  
 <br>I've previously learned the basics of <b>Flutter</b>. 📱  
 <br>Let's connect and create something amazing! 💡  
