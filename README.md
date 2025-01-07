@@ -13,8 +13,8 @@ An aspiring Web Developer 🌐 and Database Administrator 💾.  <br>I'm passion
 <br>
 
 <div align="center">
-  There are <img src="https://profile-counter.glitch.me/Ehrii/count.svg?"  />
-  visitors!
+  Your are the  <img src="https://profile-counter.glitch.me/Ehrii/count.svg?"  />th
+  visitor!
 </div> 
 
 ## 🌐 Socials:
