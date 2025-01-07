@@ -1,6 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=26&pause=1000&color=2C9ACA&background=20FF5200&width=435&lines=John+Eriel+Labadan;Welcome+To+My+Profile)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=23&duration=4000&pause=1000&color=2C9ACA&background=20FF5200&width=435&lines=John+Eriel+Labadan;Welcome+To+My+Profile)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hi! I'm John Eriel Labadan 👋,  <br><br>An aspiring Web Developer 🌐 and Database Administrator 💾.  <br>I'm passionate about building full-stack websites and managing databases. <br>constantly learning and improving my skills in these areas. 🚀<br>
