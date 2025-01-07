@@ -10,7 +10,6 @@ Hi! I'm John Eriel Labadan 👋,  <br><br>An aspiring Web Developer 🌐 and Dat
 <br>I've previously learned the basics of **Flutter**. 📱  
 <br>Let's connect and create something amazing! 💡  
 
-</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhneriel) 
@@ -31,5 +30,6 @@ Hi! I'm John Eriel Labadan 👋,  <br><br>An aspiring Web Developer 🌐 and Dat
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JohnLabadan) 
 
-  
+
+</div>  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
