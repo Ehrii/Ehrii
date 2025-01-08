@@ -40,19 +40,25 @@
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 33%; padding: 10px;">
+    <td style="width: 50%; padding: 10px;">
       <h3>📊 GitHub Stats:</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=Ehrii&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
     </td>
-    <td style="width: 33%; padding: 10px;">
-      <h3>🔥 GitHub Streak:</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehrii&theme=github_dark&hide_border=false" alt="GitHub Streak">
-    </td>
-    <td style="width: 33%; padding: 10px;">
+    <td style="width: 50%; padding: 10px;">
       <h3>📈 Top Languages:</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehrii&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     </td>
   </tr>
+</table>
+
+<br>
+<table style="width: 100%; text-align: center;">
+    <tr>
+ <td style="width: 100%; padding: 10px;">
+    <h3>🔥 GitHub Streak:</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehrii&theme=github_dark&hide_border=false" alt="GitHub Streak">
+  </td>
+    </tr>
 </table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehrii&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
