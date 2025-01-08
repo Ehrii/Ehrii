@@ -6,7 +6,7 @@
   <tr>
     <td style="width: 25%; padding: 5px;">
       <h2>💫 About Me:</h2>
-      <p>An aspiring Web Developer 🌐 and Database Administrator 💾. I'm passionate about building full-stack websites and managing databases. Constantly learning and improving my skills in these areas. 🚀</p>
+      <p>An aspiring Web Developer 🌐 and Database Administrator 💾. <br><br> I'm passionate about building full-stack websites and managing databases. <br><br> Constantly learning and improving my skills in these areas. 🚀</p>
       <p>Currently, I'm learning <b>Laravel</b> and <b>React</b>. 📚</p>
       <p>I've previously learned the basics of <b>Flutter</b>. 📱</p>
       <p>Let's connect and create something amazing! 💡</p>
