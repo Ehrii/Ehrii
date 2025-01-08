@@ -20,7 +20,6 @@
   </tr>
 </table>
 
-
 ## 🌐 Socials:
 
 <div align="center"> 
