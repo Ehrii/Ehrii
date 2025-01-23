@@ -11,7 +11,7 @@
       <p>I've previously learned the basics of <b>Flutter</b>. 📱</p>
       <p>Let's connect and create something amazing! 💡</p>
     </td>
-    <td style="width: 75%; padding: 5px;">
+    <td style="width: 75%; padding: 5px; max-height: 400px; overflow-y: auto;">
       <h3>🔝 Top Contributed Repo</h3>
       <img src="https://github-contributor-stats.vercel.app/api?username=Ehrii&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contribution Stats">
     </td>
