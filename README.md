@@ -182,11 +182,15 @@
 
 <table width="100%">
   <tr>
-    <td align="left" >
-      <img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=gradient&text=Email%20&fontSize=60&desc=cjohneriel@gmail.com" width="100%">
+    <td align="left">
+      <a href="mailto:cjohneriel@gmail.com" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=blur&height=600&color=gradient&text=Email%20&fontSize=80&desc=cjohneriel@gmail.com&descSize=30" width="100%">
+      </a>
     </td>
-    <td align="right" >
-      <img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=gradient&text=LinkedIn%20&fontSize=60&desc=https://www.linkedin.com/in/jhneriel/" width="100%">
+    <td align="right">
+      <a href="https://www.linkedin.com/in/jhneriel/" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=blur&height=600&color=gradient&text=LinkedIn%20&fontSize=80&desc=https://www.linkedin.com/in/jhneriel/&descSize=30" width="100%">
+      </a>
     </td>
   </tr>
 </table>
