@@ -82,19 +82,19 @@
       <h4 align="center">Frontend</h4>
       <table width="100%">
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="=50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></td>
         </tr>
       </table>
     </td>
@@ -103,19 +103,19 @@
       <h4 align="center">Backend</h4>
       <table width="100%">
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></td>
         </tr>
       </table>
     </td>
@@ -124,14 +124,14 @@
       <h4 align="center">Tools Used</h4>
       <table width="100%">
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="40" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></td>
         </tr>
         <tr>
           <td><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="40" /></td>
