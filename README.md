@@ -2,11 +2,32 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=200&width=400&section=header&text=Hi%2C%20I%27m%20John%20Eriel%20Labadan%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=Full%20Stack%20Developer%20for%20Web%20and%20Mobile&descSize=20&descAlignY=55&descAlign=50)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=80&fontSize=45&fontAlignY=35&text=About%20%Me" />
+
+<div align="left">
+  <p>Hi! I’m John Eriel Labadan, a 22-year-old recent graduate with a passion for building things through code.</p>
+  <p>I enjoy exploring both the technical and creative sides of development, whether it’s building full-stack applications or planning out the interface design.</p>
+</div>
+
+<div align="left">
+  <ul>
+    <li>🎓 I recently graduated and am continuously learning new technologies.</li>
+    <li>💻 I have a deep interest in programming, particularly in web and mobile development.</li>
+    <li>🎬 I’m a big fan of films and movies — storytelling really inspires me.</li>
+    <li>🎞️ I enjoy video editing as a way to express creativity.</li>
+  </ul>
+</div>
+
+
+
+<h4>Always curious. Always building.</h4>
+<br>
+<br>
 
 ###
 <section align="center">
   <h3>👨‍💻 I'm Currently Learning</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=80&text=Vue.Js%20%7C%20Laravel%20Livewire" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=80&fontSize=45&fontAlignY=35&text=Vue.Js%20%7C%20Laravel%20Livewire" />
 </section>
 
 <!-- Featured Projects Section -->
