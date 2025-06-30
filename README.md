@@ -196,7 +196,7 @@
 </table>
 
     
-  ![](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&height=150&section=footer&text=🙏%20Thank%20You%20for%20Visiting&fontSize=25&fontColor=black&animation=scaleIn&fontAlignY=60&desc=%22Strive%20not%20to%20be%20a%20success%2C%20but%20rather%20to%20be%20of%20value.%22%20-%20Albert%20Einstein&descSize=18&descAlignY=80&descAlign=50)
+  ![](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&height=150&section=footer&text=🙏%20Thank%20You%20for%20Visiting&fontSize=25&fontColor=F0F0F0&stroke=000000&animation=scaleIn&fontAlignY=60&desc=%22Strive%20not%20to%20be%20a%20success%2C%20but%20rather%20to%20be%20of%20value.%22%20-%20Albert%20Einstein&descSize=18&descAlignY=80&descAlign=50)
 
 
 
