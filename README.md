@@ -13,7 +13,7 @@
     <td width="50%">
       <h4 align="center">🧩 <u>AccesiJobs</u>: PWD Job Platform</h4>
       <div align="center">  
-        <img src="/path/to/project.png" width="70%" alt="AccesiJobs Project"/>
+        <img src="spacexss.png" width="100%" alt="AccesiJobs Project"/>
         <br><br>
         <a href="#"><img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/></a>
@@ -27,7 +27,7 @@
     <td width="50%">
       <h4 align="center">🚀 SpaceX Missions (Nuxt + GraphQL)</h4>
       <div align="center">  
-        <img src="/path/to/project.png" width="70%" alt="SpaceX Missions Project"/>
+        <img src="spacexss.png" width="100%" alt="AccesiJobs Project"/>
         <br><br>
         <a href="#"><img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/></a>
@@ -43,7 +43,7 @@
     <td width="50%">
       <h4 align="center">🌐 React.js E-Portfolio</h4>
       <div align="center">  
-        <img src="/path/to/project.png" width="70%" alt="React Portfolio"/>
+        <img src="spacexss.png" width="100%" alt="AccesiJobs Project"/>
         <br><br>
         <a href="#"><img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/></a>
@@ -57,7 +57,7 @@
     <td width="50%">
       <h4 align="center">🌦️ TropiCool: Weather + Social App</h4>
       <div align="center">  
-        <img src="/path/to/project.png" width="70%" alt="TropiCool Project"/>
+        <img src="spacexss.png" width="100%" alt="AccesiJobs Project"/>
         <br><br>
         <a href="#"><img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/></a>
