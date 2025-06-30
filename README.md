@@ -33,8 +33,8 @@
 
 <h3>Always curious. Always building.</h3>
 <br>
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:1E90FF,100:00FFB2&&fontColor=black&stroke=00e0ff)
@@ -103,7 +103,9 @@
   </tr>
 </table>
 
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=💻%20Tech%20Stack&fontSize=40&color=0:1E90FF,100:00FFB2&&fontColor=black&stroke=00FFB2)
 
@@ -120,7 +122,7 @@
         </tr>
         <tr>
           <td><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="55" /></td>
+          <td><img src="https://devicon-website.vercel.app/api/vuejs/original.svg" alt="Vue.js" height="55" /></td>
           <td><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="55" /></td>
         </tr>
         <tr>
@@ -140,9 +142,9 @@
           <td><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="55" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="55" /></td>
+          <td><img src="https://devicon-website.vercel.app/api/graphql/plain-wordmark.svg" alt="GraphQL" height="55" /></td>
           <td><img src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="55" /></td>
+          <td><img src="https://devicon-website.vercel.app/api/dot-net/plain-wordmark.svg?color=%233A90C7" alt=".NET" height="55" /></td>
         </tr>
         <tr>
           <td><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="55" /></td>
@@ -157,7 +159,7 @@
       <table width="100%">
         <tr>
           <td><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="55" /></td>
+          <td><img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23B79400" alt="Bash" height="55" /></td>
           <td><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="55" /></td>
         </tr>
         <tr>
