@@ -17,7 +17,7 @@ I’m currently learning Vue.js and Laravel Livewire 👨‍💻
 <br>
 Learning everything about Frontend and Backend technologies 📚  
 <br>
-Future Goals: Learn more technologies - Never stop creating new ideas 💪🏼
+Currently refractoring the capstone project 💪🏼
 </p><p><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 </div>
 
