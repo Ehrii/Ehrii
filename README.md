@@ -18,19 +18,20 @@
   </ul>
 </div>
 
-
-
 <h4>Always curious. Always building.</h4>
 <br>
-<br>
+
 
 ###
 <section align="center">
   <h3>👨‍💻 I'm Currently Learning</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=80&fontSize=45&fontAlignY=35&text=Vue.Js%20%7C%20Laravel%20Livewire" />
 </section>
-
 <!-- Featured Projects Section -->
+
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:00c6ff,100:0072ff&stroke=00e0ff)
+<br>
+<br>
 <table>
   <tr>
     <td width="50%">
