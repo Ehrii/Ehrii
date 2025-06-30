@@ -1,8 +1,8 @@
 <div style="width:100%" align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=200&width=400&section=header&text=Hi%2C%20I%27m%20John%20Eriel%20Labadan%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=Full%20Stack%20Developer%20for%20Web%20and%20Mobile&descSize=20&descAlignY=55&descAlign=50)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=black&stroke=00e0ff&height=200&width=400&section=header&text=Hi%2C%20I%27m%20John%20Eriel%20Labadan%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=Full%20Stack%20Developer%20for%20Web%20and%20Mobile&descSize=20&descAlignY=55&descAlign=50)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=115&fontSize=45&fontAlignY=35&text=About%20%Me" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=black&stroke=00e0ff&height=115&fontSize=45&fontAlignY=35&text=About%20%Me" />
 
 
 
@@ -107,7 +107,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-![](https://capsule-render.vercel.app/api?type=venom&height=150&text=💻%20Tech%20Stack&fontSize=40&color=0:1E90FF,100:00FFB2&&fontColor=black&stroke=00FFB2)
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=💻%20Tech%20Stack&fontSize=40&color=0:1E90FF,100:00FFB2&&fontColor=black&stroke=00e0ff)
 
 <table width="100%">
   <tr valign="top">
@@ -178,25 +178,25 @@
 </table>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=115&fontSize=45&fontAlignY=35&text=Contact%20%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=black&stroke=00e0ff&height=115&fontSize=45&fontAlignY=35&text=Contact%20%" />
 
 <table width="100%">
   <tr>
     <td align="left">
       <a href="mailto:cjohneriel@gmail.com" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=Email%20&fontSize=80&desc=cjohneriel@gmail.com&descSize=30" width="100%">
+        <img src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=Email%20&fontSize=80&desc=cjohneriel@gmail.com&descSize=30&fontColor=black&stroke=00e0ff" width="100%">
       </a>
     </td>
     <td align="right">
       <a href="https://www.linkedin.com/in/jhneriel/" target="_blank">
-        <img src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=LinkedIn%20&fontSize=80&desc=https://www.linkedin.com/in/jhneriel/&descSize=30" width="100%">
+        <img src="https://capsule-render.vercel.app/api?type=blur&height=800&color=gradient&text=LinkedIn%20&fontSize=80&desc=https://www.linkedin.com/in/jhneriel/&descSize=30&fontColor=black&stroke=00e0ff" width="100%">
       </a>
     </td>
   </tr>
 </table>
 
     
-  ![](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&height=150&section=footer&text=🙏%20Thank%20You%20for%20Visiting&fontSize=20&fontColor=ffffff&animation=scaleIn&fontAlignY=60&desc=%22Strive%20not%20to%20be%20a%20success%2C%20but%20rather%20to%20be%20of%20value.%22%20-%20Albert%20Einstein&descSize=18&descAlignY=80&descAlign=50)
+  ![](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&height=150&section=footer&text=🙏%20Thank%20You%20for%20Visiting&fontSize=20&fontColor=black&animation=scaleIn&fontAlignY=60&desc=%22Strive%20not%20to%20be%20a%20success%2C%20but%20rather%20to%20be%20of%20value.%22%20-%20Albert%20Einstein&descSize=18&descAlignY=80&descAlign=50)
 
 
 
