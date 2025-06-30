@@ -177,7 +177,19 @@
   </tr>
 </table>
 
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=115&fontSize=45&fontAlignY=35&text=Contact%20%" />
 
+<table width="100%">
+  <tr>
+    <td align="left" >
+      <img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=gradient&text=Email%20&fontSize=60&desc=cjohneriel@gmail.com" width="100%">
+    </td>
+    <td align="right" >
+      <img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=gradient&text=LinkedIn%20&fontSize=60&desc=https://www.linkedin.com/in/jhneriel/" width="100%">
+    </td>
+  </tr>
+</table>
 
     
   ![](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&height=150&section=footer&text=🙏%20Thank%20You%20for%20Visiting&fontSize=20&fontColor=ffffff&animation=scaleIn&fontAlignY=60&desc=%22Strive%20not%20to%20be%20a%20success%2C%20but%20rather%20to%20be%20of%20value.%22%20-%20Albert%20Einstein&descSize=18&descAlignY=80&descAlign=50)
