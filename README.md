@@ -13,7 +13,7 @@
     <td width="50%">
       <h4 align="center">🧩 <u>AccesiJobs</u>: PWD Job Platform</h4>
       <div align="center">  
-        <img src="spacexss.png" width="100%" alt="AccesiJobs Project"/>
+        <img src="acjobsphss.png" width="100%" alt="AccesiJobs Project"/>
         <br><br>
         <a href="#"><img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/></a>
@@ -43,7 +43,7 @@
     <td width="50%">
       <h4 align="center">🌐 React.js E-Portfolio</h4>
       <div align="center">  
-        <img src="spacexss.png" width="100%" alt="AccesiJobs Project"/>
+        <img src="portfolioss.png" width="100%" alt="AccesiJobs Project"/>
         <br><br>
         <a href="#"><img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/></a>
         <a href="#"><img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/></a>
