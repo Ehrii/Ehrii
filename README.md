@@ -3,7 +3,25 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=200&width=400&section=header&text=Hi%2C%20I%27m%20John%20Eriel%20Labadan%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=Full%20Stack%20Developer%20for%20Web%20and%20Mobile&descSize=20&descAlignY=55&descAlign=50)
 
 
+###
 
+<img align="left" height="150" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" style="border-radius: 50%;" />
+
+###
+
+<div align="right">
+<br>
+<br>
+<br>
+I’m currently learning Vue.js and Laravel Livewire 👨‍💻 
+<br>
+Learning everything about Frontend and Backend technologies 📚  
+<br>
+Future Goals: Learn more technologies - Never stop creating new ideas 💪🏼
+</p><p><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+</div>
+
+###
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:00c6ff,100:0072ff&stroke=00e0ff)
 
