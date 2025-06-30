@@ -24,7 +24,7 @@
 
 
 
-![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:00c6ff,100:0072ff&stroke=00e0ff)
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:1E90FF,100:00FFB2&&fontColor=black&stroke=00e0ff)
 <br>
 <br>
 <table>
@@ -92,7 +92,7 @@
 
 
 
-![](https://capsule-render.vercel.app/api?type=venom&height=150&text=💻%20Tech%20Stack&fontSize=40&color=0:00FFB2,100:1E90FF&stroke=00FFB2)
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=💻%20Tech%20Stack&fontSize=40&color=0:1E90FF,100:00FFB2&&fontColor=black&stroke=00FFB2)
 
 <table width="100%">
   <tr valign="top">
