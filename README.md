@@ -4,6 +4,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=115&fontSize=45&fontAlignY=35&text=About%20%Me" />
 
+
+
+
+
+###
+
+<img align="right" height="250" src="gifdesign.gif"  />
+
+###
+
 <div align="left">
   <p>Hi! I’m John Eriel Labadan, a 22-year-old recent graduate with a passion for building things through code.</p>
   <p>I enjoy exploring both the technical and creative sides of development, whether it’s building full-stack applications or planning out the interface design.</p>
@@ -17,6 +27,9 @@
     <li>🎮I enjoy video editing and video games as a way to express fun and creativity.</li>
   </ul>
 </div>
+
+
+###
 
 <h4>Always curious. Always building.</h4>
 <br>
