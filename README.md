@@ -13,8 +13,8 @@
   <ul>
     <li>🎓 I recently graduated and am continuously learning new technologies.</li>
     <li>💻 I have a deep interest in programming, particularly in web and mobile development.</li>
-    <li>🎬 I’m a big fan of films and movies — storytelling really inspires me.</li>
-    <li>🎞️ I enjoy video editing as a way to express creativity.</li>
+    <li>🎬 I’m a big fan of films and movies, storytelling really inspires me.</li>
+    <li>🎮I enjoy video editing and video games as a way to express fun and creativity.</li>
   </ul>
 </div>
 
