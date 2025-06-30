@@ -4,26 +4,10 @@
 
 
 ###
-
-<img align="left" height="150" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" style="border-radius: 50%;" />
-
-###
-
-<div align="right">
-<br>
-<br>
-<br>
-I’m currently learning Vue.js and Laravel Livewire 👨‍💻 
-<br>
-Learning everything about Frontend and Backend technologies 📚  
-<br>
-Currently refractoring the capstone project 💪🏼
-</p><p><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
-</div>
-
-###
-
-![](https://capsule-render.vercel.app/api?type=venom&height=150&text=🚀%20Featured%20Projects&fontSize=40&color=0:00c6ff,100:0072ff&stroke=00e0ff)
+<section align="center">
+  <h3>👨‍💻 I'm Currently Learning</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=ffffff&height=80&text=Vue.Js%20%7C%20Laravel%20Livewire" />
+</section>
 
 <!-- Featured Projects Section -->
 <table>
