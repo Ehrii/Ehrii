@@ -16,7 +16,7 @@
 
 <div align="left">
   <h3>Hi! I’m <strong>John Eriel Labadan<strong>, a 22-year-old recent graduate with a passion for building things through code.</h3>
-  <p>I enjoy exploring both the technical and creative sides of development, whether it’s building<br> full-stack applications  or planning out the interface design.</p>
+  <p>I enjoy exploring both the technical and creative sides of development, whether it’s building full-stack applications  or planning out the interface design.</p>
 </div>
 
 <div align="left">
