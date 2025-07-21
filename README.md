@@ -117,7 +117,7 @@
       <table width="100%">
         <tr>
           <td><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="=55" /></td>
+          <td><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="55" /></td>
           <td><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="55" /></td>
         </tr>
         <tr>
