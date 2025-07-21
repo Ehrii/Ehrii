@@ -112,70 +112,69 @@
 <table width="100%">
   <tr valign="top">
     <!-- Frontend -->
-    <td width="33%">
+    <td width="33%" valign="top">
       <h4 align="center">Frontend</h4>
       <table width="100%">
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="55" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" /></td>
-          <td><img src="https://devicon-website.vercel.app/api/vuejs/original.svg" alt="Vue.js" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" /></td>
+          <td align="center"><img src="https://devicon-website.vercel.app/api/vuejs/original.svg" alt="Vue.js" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="55" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="55" /></td>
         </tr>
       </table>
     </td>
-    <!-- Backend -->
-    <td width="33%">
+    <td width="33%" valign="top">
       <h4 align="center">Backend</h4>
       <table width="100%">
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="55" /></td>
         </tr>
         <tr>
-          <td><img src="https://devicon-website.vercel.app/api/graphql/plain-wordmark.svg" alt="GraphQL" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="55" /></td>
-          <td><img src="https://devicon-website.vercel.app/api/dot-net/plain-wordmark.svg?color=%233A90C7" alt=".NET" height="55" /></td>
+          <td align="center"><img src="https://devicon-website.vercel.app/api/graphql/plain-wordmark.svg" alt="GraphQL" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="55" /></td>
+          <td align="center"><img src="https://devicon-website.vercel.app/api/dot-net/plain-wordmark.svg?color=%233A90C7" alt=".NET" height="55" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="55" /></td>
         </tr>
       </table>
     </td>
-    <!-- Tools -->
-    <td width="33%">
+    <td width="33%" valign="top">
       <h4 align="center">Tools Used</h4>
       <table width="100%">
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="55" /></td>
-          <td><img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23B79400" alt="Bash" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="55" /></td>
+          <td align="center"><img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23B79400" alt="GitHub" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="55" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="55" /></td>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="55" /></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="55" /></td>
         </tr>
         <tr>
-          <td><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="55" /></td>
-          <td></td>
-          <td></td>
+          <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="55" /></td>
+          <td align="center">&nbsp;</td>
+          <td align="center">&nbsp;</td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
+
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00FFB2&fontColor=F0F0F0&stroke=000000&height=115&fontSize=45&fontAlignY=35&text=Contact%20%&animation=fadeIn" />
